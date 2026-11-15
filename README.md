@@ -1,10 +1,10 @@
-<h2 align="left">Hi, my name is <a href="https://www.linkedin.com/in/granth-bagadia/">Granth Bagadia</a> and I'm a student at <a href="https://www.bits-pilani.ac.in/">BITS Pilani</a></h2>
+<h2 align="left">Hi, my name is <a href="https://www.linkedin.com/in/granth-bagadia/">Granth Bagadia</a> and I'm an Applications Developer at Oracle</h2>
 
 <img align="right" height="190" style="margin-left: 10px" src="https://media1.tenor.com/m/x8v1oNUOmg4AAAAd/rickroll-roll.gif"  />
 
 <div class="align="left">
   <h4>
-    Hi, I'm Granth Bagadia, a Computer Science undergraduate at Birla Institute of Technology and Science, Pilani with a strong foundation in Artificial Intelligence, Machine Learning, Deep Learning, and Software Development. I have hands-on experience in research, industry internships, and open-source contributions (Google Summer of Code 2025, MetaBrainz Foundation). My work spans from anomaly detection research published in IEEE to building AI-driven systems for education, security, and enterprise applications.
+    Hi, I'm Granth Bagadia, a Computer Science graduate from Birla Institute of Technology and Science, Pilani, now an Applications Developer at Oracle building AI agents and enterprise applications for Oracle Fusion HCM. I have a strong foundation in Artificial Intelligence, Machine Learning, Deep Learning, and Software Development, with hands-on experience in research, industry internships, and open-source contributions (Google Summer of Code 2025, MetaBrainz Foundation). My work spans from anomaly detection research published in IEEE to building AI-driven systems for education, security, and enterprise applications.
   </h4>
   <ul>
     <li>Skilled in <b>Python, C/C++, JavaScript, and Java</b></li>
